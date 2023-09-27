@@ -24,3 +24,5 @@ LINK : https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9&si=1
 Next I will be follwing wh0ami's list to understand and solve similar patterns 
 https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
 
+and https://leetcode.com/discuss/general-discussion/655708/graph-for-beginners-problems-pattern-sample-solutions/562734 
+for graph type questions
