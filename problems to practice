@@ -47,3 +47,147 @@ UNION find algo similar questions
     Fibonacci Numbers
     Palindromic Subsequence
     Longest Common Substring
+
+
+Union Find:
+
+    https://leetcode.com/problems/friend-circles/
+    https://leetcode.com/problems/redundant-connection/
+    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+    https://leetcode.com/problems/satisfiability-of-equality-equations/
+    https://leetcode.com/problems/accounts-merge/
+    https://leetcode.com/problems/connecting-cities-with-minimum-cost/
+
+DFS:
+DFS from boundary:
+
+    https://leetcode.com/problems/surrounded-regions/
+    https://leetcode.com/problems/number-of-enclaves/
+
+Shortest time:
+
+    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+
+Islands Variants
+
+    https://leetcode.com/problems/number-of-closed-islands/
+    https://leetcode.com/problems/number-of-islands/
+    https://leetcode.com/problems/keys-and-rooms/
+    https://leetcode.com/problems/max-area-of-island/
+    https://leetcode.com/problems/flood-fill/
+    https://leetcode.com/problems/coloring-a-border/
+
+Hash/DFS:
+
+    https://leetcode.com/problems/employee-importance/
+    https://leetcode.com/problems/find-the-town-judge/
+
+Cycle Find:
+
+    https://leetcode.com/problems/find-eventual-safe-states/
+
+BFS:
+BFS for shortest path:
+
+    https://leetcode.com/problems/01-matrix/
+    https://leetcode.com/problems/as-far-from-land-as-possible/
+    https://leetcode.com/problems/rotting-oranges/
+    https://leetcode.com/problems/shortest-path-in-binary-matrix/
+
+Graph coloring:
+
+    https://leetcode.com/problems/possible-bipartition/
+    https://leetcode.com/problems/is-graph-bipartite/
+
+Topological Sort:
+
+    https://leetcode.com/problems/course-schedule-ii/
+
+Shortest Path:
+
+    https://leetcode.com/problems/network-delay-time/
+    https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+
+
+
+____________________________
+
+
+Longest Increasing Subsequence variants:
+https://leetcode.com/problems/longest-increasing-subsequence/
+https://leetcode.com/problems/largest-divisible-subset/
+https://leetcode.com/problems/russian-doll-envelopes/
+https://leetcode.com/problems/maximum-length-of-pair-chain/
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+https://leetcode.com/problems/delete-and-earn/
+https://leetcode.com/problems/longest-string-chain/
+
+Partition Subset:
+https://leetcode.com/problems/partition-equal-subset-sum/
+https://leetcode.com/problems/last-stone-weight-ii/
+
+BitMasking:
+https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+
+Longest Common Subsequence Variant:
+https://leetcode.com/problems/longest-common-subsequence/
+https://leetcode.com/problems/edit-distance/
+https://leetcode.com/problems/distinct-subsequences/
+https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+
+Palindrome:
+https://leetcode.com/problems/palindrome-partitioning-ii/
+https://leetcode.com/problems/palindromic-substrings/
+
+Coin Change variant:
+https://leetcode.com/problems/coin-change/
+https://leetcode.com/problems/coin-change-2/
+https://leetcode.com/problems/combination-sum-iv/
+https://leetcode.com/problems/perfect-squares/
+https://leetcode.com/problems/minimum-cost-for-tickets/
+
+Matrix multiplication variant:
+https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+https://leetcode.com/problems/burst-balloons/
+
+Matrix/2D Array:
+https://leetcode.com/problems/matrix-block-sum/
+https://leetcode.com/problems/range-sum-query-2d-immutable/
+https://leetcode.com/problems/dungeon-game/
+https://leetcode.com/problems/triangle/
+https://leetcode.com/problems/maximal-square/
+https://leetcode.com/problems/minimum-falling-path-sum/
+
+Hash + DP:
+https://leetcode.com/problems/target-sum/
+https://leetcode.com/problems/longest-arithmetic-sequence/
+https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+
+State machine:
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+
+Depth First Search + DP:
+https://leetcode.com/problems/out-of-boundary-paths/
+https://leetcode.com/problems/knight-probability-in-chessboard/
+
+Minimax DP:
+https://leetcode.com/problems/predict-the-winner/
+https://leetcode.com/problems/stone-game/
+
+Misc:
+https://leetcode.com/problems/greatest-sum-divisible-by-three/
+https://leetcode.com/problems/decode-ways/
+https://leetcode.com/problems/perfect-squares/
+https://leetcode.com/problems/count-numbers-with-unique-digits/
+https://leetcode.com/problems/longest-turbulent-subarray/
+https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
