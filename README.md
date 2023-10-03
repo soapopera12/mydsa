@@ -26,3 +26,12 @@ https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems
 
 and https://leetcode.com/discuss/general-discussion/655708/graph-for-beginners-problems-pattern-sample-solutions/562734 
 for graph type questions
+
+
+
+Other materials
+https://github.com/twowaits/SDE-Interview-Questions/tree/master
+
+https://github.com/bhartik021/SDE-Interview-Materials/
+
+https://github.com/the-hyp0cr1t3/CC/tree/master
