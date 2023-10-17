@@ -107,7 +107,7 @@ public:
         int rows = matrix.size();
         int cols = matrix[0].size();
         vector<vector<int>> distances(rows, vector<int>(cols, 0));
-        queue<pair<int, int>> q;
+        queue<pair<int, int>> q;                    // for bfs a queue is always required in case of matrix
         
         // Enqueue all 0 cells and set their distances to 0
         for (int i = 0; i < rows; i++) {
