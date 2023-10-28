@@ -32,3 +32,40 @@ public:
         return min(solve(1,cost,dp),solve(0,cost,dp));
     }
 };
+
+
+// leetcode solution much better
+
+class Solution {
+public:
+    int solve(int n, vector<int> &dp){
+
+        if(n == 0 || n == 1){                 // base case is tricky
+            return 1;
+        }
+
+        if(dp[n] != -1){
+            return dp[n];
+        }
+
+        // 1 step
+        int oneStep = solve(n-1,dp);
+
+        //two Step
+        int twoStep = solve(n-2,dp);
+
+        return dp[n] = (oneStep + twoStep);
+
+    }
+
+    int climbStairs(int n) {
+
+        if(n <= 2){
+            return n;
+        }
+
+        vector<int> dp(n+1,-1);
+
+        return solve(n-1,dp) + solve(n-2,dp); 
+    }
+};
