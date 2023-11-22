@@ -42,17 +42,29 @@ Link : https://leetcode.com/discuss/general-discussion/655708/graph-for-beginner
 For November 2023
 
 Days 	    Topic
+
 1 - 3 	    Dynamic Programming     done
+
 4 - 5 	    Breadth First Search    done
+
 6 - 7 	    Design                  done
+
 8 - 9 	    Two Pointers            done
+
 10 - 12 	Greedy                  done
+
 13 - 14 	Linked List             done
+
 15 - 16 	Dynamic Programming     done
+
 17 - 20 	String                  done
+
 21 - 22 	Sliding Window
+
 23 - 24 	Bit Manipulation
+
 25 - 29 	Array
+
 30 - 31 	Matrix
 
 9. Moving away from DP for a bit
@@ -63,6 +75,9 @@ Link : https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginn
 
 
 Other materials
+
 https://github.com/twowaits/SDE-Interview-Questions/tree/master
+
 https://github.com/bhartik021/SDE-Interview-Materials/
+
 https://github.com/the-hyp0cr1t3/CC/tree/master
