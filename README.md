@@ -1,8 +1,10 @@
 # mydsa
 A repository for dsa practice(leetcode + coding ninjas + geeksforgeeks)
+## Notion link
+https://www.notion.so/Leetcode-daily-6b67614b186a4e7ead31097040bee249?pvs=4
 
-This repo will contain All the codes that i wrote or copied !
-Gambare!
+## This repo will contain All the codes that i wrote or copied !
+## Gambare!
 
 As of now i have completed these things in my prep
 
@@ -48,7 +50,6 @@ Days 	    Topic
 Link : https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
 
 #75 Sort Colors
-
 
 
 Other materials
