@@ -45,6 +45,10 @@ Link : https://leetcode.com/
 
 Link : https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
 
+10. practicing DP by types
+
+Link : https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Catefory-wise
+
 Other materials
 
 https://github.com/twowaits/SDE-Interview-Questions/tree/master

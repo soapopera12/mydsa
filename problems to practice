@@ -1,3 +1,50 @@
+Hi all,
+I have been following leetcode discussion for a long time and maintaining resources for personal training. People here are really awesome. I have created list of problems based on the categorization of problems which I found during contest, practise sessions or other resources/ dicuss posts.
+This journey has been marathon for me instead of a sprint. To keep a record of progress these list will help us as we can train breadth wise and depth wise on various topics. You can clone and watch these lists. I will keep updating them.
+
+    Linear Dp 
+    This type of questions are easy to figure out. You just need to find the repetitive part of soultion and improve it by saving its result somewhere. A classical example is fibonacci series.
+    https://leetcode.com/list/50vlu3z5
+
+    String and Dp link
+    In interviews or contests, problems on string are really common and one has to be strong on this. To make problem more complex soultion requires backtracking or recursion, after that dp can be applied to optimize further.
+    https://leetcode.com/list/50v8wybv
+
+    Dp with Tree and Graph link
+    Tree and Graph are maily based of DFS and BFS. Its very rare to see some direct relation with dp. But for best understanding one should practise hard with BFS, DFS and other direct graph based algo. Then you can provide some advance solution with dp. I would recommend to start with problem Cheapest Flights Within K Stops ( problem 787).
+    https://leetcode.com/list/50v8rtm7/
+
+    Knapsack based Dp link
+    Solution is built upon subset, but with few more restrictions. For example you want to complete some courses, they have some reward points associated. But you can attend only k number of courses. Now try to maximize your points. This type of problems are just extension to simple dp, where you add one more dimension to consider provided restriction.
+    https://leetcode.com/list/50vif4uc
+
+    Dp with bits manipulation link
+    Usually we create array or map to store computed state. But Some problems may need you to save space further more by just encoding state and its result into bits. Solve some problems in this list you will realize bits are so powerful.
+
+    Dp on math problems link
+    These are rare in interview, so one can start this list accordingly. But if you are a math lover, its a great category.
+
+    Classical dp problems link
+    Its a must do list. It consits many direct interview question. You will find them as it is. Also these question are base to your understanding. It will help in logic building in contests too. I suggest solve these problems several times. Its like Inception movie.
+
+    Grid based dp link
+    Grid based questions are easy to solve. It just require practise.
+
+    Multidimensional Dp link
+
+    Digit problems with dp link
+
+    Interval problems with dp link
+
+Approach - Drawback of solving problems topic wise is, we think in narrow space and do not consider other approaches. So always question yourself why are you using this approach. Also always use timer while practising.
+
+Mentions/Credits
+Thanks to these great posts
+
+    @chuka231
+    https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+    https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
+
 
 
 UNION find algo similar questions
