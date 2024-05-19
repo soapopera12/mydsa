@@ -1,4 +1,4 @@
-// DFS - FIFO - level order 
+// DFS - FIFO - level order - Queue
 // https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52
 
 // represented using adjacency list
