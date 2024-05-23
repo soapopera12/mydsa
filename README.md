@@ -1,5 +1,5 @@
 # mydsa
-A repository for dsa practice(leetcode + coding ninjas + geeksforgeeks)
+A repository for dsa practice(leetcode + coding ninjas + geeksforgeeks + codeforces)
 
 ## Notion link
 https://www.notion.so/Leetcode-daily-6b67614b186a4e7ead31097040bee249?pvs=4
@@ -48,6 +48,18 @@ Link : https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginn
 10. practicing DP by types
 
 Link : https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Catefory-wise
+
+11. BFS 
+
+Link : https://leetcode.com/problem-list/57ksoa4v/
+
+12. DFS
+
+Link : https://leetcode.com/problem-list/57ksrrzj/
+
+13. Two pointers 
+
+Link : https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
 
 Other materials
 

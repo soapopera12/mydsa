@@ -46,54 +46,49 @@ https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-proble
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 
-Hi all,
-I have been following leetcode discussion for a long time and maintaining resources for personal training. People here are really awesome. I have created list of problems based on the categorization of problems which I found during contest, practise sessions or other resources/ dicuss posts.
-This journey has been marathon for me instead of a sprint. To keep a record of progress these list will help us as we can train breadth wise and depth wise on various topics. You can clone and watch these lists. I will keep updating them.
 
-    Linear Dp 
-    This type of questions are easy to figure out. You just need to find the repetitive part of soultion and improve it by saving its result somewhere. A classical example is fibonacci series.
-    https://leetcode.com/list/50vlu3z5
+Linear Dp 
+This type of questions are easy to figure out. You just need to find the repetitive part of soultion and improve it by saving its result somewhere. A classical example is fibonacci series.
+https://leetcode.com/list/50vlu3z5
 
-    String and Dp link
-    In interviews or contests, problems on string are really common and one has to be strong on this. To make problem more complex soultion requires backtracking or recursion, after that dp can be applied to optimize further.
-    https://leetcode.com/list/50v8wybv
+String and Dp link
+In interviews or contests, problems on string are really common and one has to be strong on this. To make problem more complex soultion requires backtracking or recursion, after that dp can be applied to optimize further.
+https://leetcode.com/list/50v8wybv
 
-    Dp with Tree and Graph link
-    Tree and Graph are maily based of DFS and BFS. Its very rare to see some direct relation with dp. But for best understanding one should practise hard with BFS, DFS and other direct graph based algo. Then you can provide some advance solution with dp. I would recommend to start with problem Cheapest Flights Within K Stops ( problem 787).
-    https://leetcode.com/list/50v8rtm7/
+Dp with Tree and Graph link
+Tree and Graph are maily based of DFS and BFS. Its very rare to see some direct relation with dp. But for best understanding one should practise hard with BFS, DFS and other direct graph based algo. Then you can provide some advance solution with dp. I would recommend to start with problem Cheapest Flights Within K Stops ( problem 787).
+https://leetcode.com/list/50v8rtm7/
 
-    Knapsack based Dp link
-    Solution is built upon subset, but with few more restrictions. For example you want to complete some courses, they have some reward points associated. But you can attend only k number of courses. Now try to maximize your points. This type of problems are just extension to simple dp, where you add one more dimension to consider provided restriction.
-    https://leetcode.com/list/50vif4uc
+Knapsack based Dp link
+Solution is built upon subset, but with few more restrictions. For example you want to complete some courses, they have some reward points associated. But you can attend only k number of courses. Now try to maximize your points. This type of problems are just extension to simple dp, where you add one more dimension to consider provided restriction.
+https://leetcode.com/list/50vif4uc
 
-    Dp with bits manipulation link
-    Usually we create array or map to store computed state. But Some problems may need you to save space further more by just encoding state and its result into bits. Solve some problems in this list you will realize bits are so powerful.
+Dp with bits manipulation link
+Usually we create array or map to store computed state. But Some problems may need you to save space further more by just encoding state and its result into bits. Solve some problems in this list you will realize bits are so powerful.
 
-    Dp on math problems link
-    These are rare in interview, so one can start this list accordingly. But if you are a math lover, its a great category.
+Dp on math problems link
+These are rare in interview, so one can start this list accordingly. But if you are a math lover, its a great category.
 
-    Classical dp problems link
-    Its a must do list. It consits many direct interview question. You will find them as it is. Also these question are base to your understanding. It will help in logic building in contests too. I suggest solve these problems several times. Its like Inception movie.
+Classical dp problems link
+Its a must do list. It consits many direct interview question. You will find them as it is. Also these question are base to your understanding. It will help in logic building in contests too. I suggest solve these problems several times. Its like Inception movie.
 
-    Grid based dp link
-    Grid based questions are easy to solve. It just require practise.
+Grid based dp link
+Grid based questions are easy to solve. It just require practise.
 
-    Multidimensional Dp link
+Multidimensional Dp link
 
-    Digit problems with dp link
+Digit problems with dp link
 
-    Interval problems with dp link
+Interval problems with dp link
 
 Approach - Drawback of solving problems topic wise is, we think in narrow space and do not consider other approaches. So always question yourself why are you using this approach. Also always use timer while practising.
 
 Mentions/Credits
 Thanks to these great posts
 
-    @chuka231
-    https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
-    https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
-
-
+@chuka231
+https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 
 UNION find algo similar questions
 261, https://leetcode.com/problems/graph-valid-tree/
@@ -122,88 +117,67 @@ UNION find algo similar questions
 711, https://leetcode.com/problems/number-of-distinct-islands-ii/
 547, https://leetcode.com/problems/friend-circles/
 
-    Sliding Window
-    Islands (Matrix Traversal)
-    Two Pointers
-    Fast & Slow Pointers
-    Merge Intervals
-    Cyclic Sort
-    In-place Reversal of a LinkedList
-    Tree Breadth-First Search
-    Tree Depth First Search
-    Two Heaps
-    Subsets
-    Modified Binary Search
-    Bitwise XOR
-    Top ‘K’ Elements
-    K-way Merge
-    Topological Sort
-    0/1 Knapsack
-    Fibonacci Numbers
-    Palindromic Subsequence
-    Longest Common Substring
-
 
 Union Find:
 
-    https://leetcode.com/problems/friend-circles/
-    https://leetcode.com/problems/redundant-connection/
-    https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
-    https://leetcode.com/problems/number-of-operations-to-make-network-connected/
-    https://leetcode.com/problems/satisfiability-of-equality-equations/
-    https://leetcode.com/problems/accounts-merge/
-    https://leetcode.com/problems/connecting-cities-with-minimum-cost/
+https://leetcode.com/problems/friend-circles/
+https://leetcode.com/problems/redundant-connection/
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+https://leetcode.com/problems/satisfiability-of-equality-equations/
+https://leetcode.com/problems/accounts-merge/
+https://leetcode.com/problems/connecting-cities-with-minimum-cost/
 
 DFS:
 DFS from boundary:
 
-    https://leetcode.com/problems/surrounded-regions/
-    https://leetcode.com/problems/number-of-enclaves/
+https://leetcode.com/problems/surrounded-regions/
+https://leetcode.com/problems/number-of-enclaves/
 
 Shortest time:
 
-    https://leetcode.com/problems/time-needed-to-inform-all-employees/
+https://leetcode.com/problems/time-needed-to-inform-all-employees/
 
 Islands Variants
 
-    https://leetcode.com/problems/number-of-closed-islands/
-    https://leetcode.com/problems/number-of-islands/
-    https://leetcode.com/problems/keys-and-rooms/
-    https://leetcode.com/problems/max-area-of-island/
-    https://leetcode.com/problems/flood-fill/
-    https://leetcode.com/problems/coloring-a-border/
+https://leetcode.com/problems/number-of-closed-islands/
+https://leetcode.com/problems/number-of-islands/
+https://leetcode.com/problems/keys-and-rooms/
+https://leetcode.com/problems/max-area-of-island/
+https://leetcode.com/problems/flood-fill/
+https://leetcode.com/problems/coloring-a-border/
 
 Hash/DFS:
 
-    https://leetcode.com/problems/employee-importance/
-    https://leetcode.com/problems/find-the-town-judge/
+https://leetcode.com/problems/employee-importance/
+https://leetcode.com/problems/find-the-town-judge/
 
 Cycle Find:
 
-    https://leetcode.com/problems/find-eventual-safe-states/
+https://leetcode.com/problems/find-eventual-safe-states/
 
 BFS:
 BFS for shortest path:
 
-    https://leetcode.com/problems/01-matrix/
-    https://leetcode.com/problems/as-far-from-land-as-possible/
-    https://leetcode.com/problems/rotting-oranges/
-    https://leetcode.com/problems/shortest-path-in-binary-matrix/
+https://leetcode.com/problems/01-matrix/
+https://leetcode.com/problems/as-far-from-land-as-possible/
+https://leetcode.com/problems/rotting-oranges/
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
 
 Graph coloring:
 
-    https://leetcode.com/problems/possible-bipartition/
-    https://leetcode.com/problems/is-graph-bipartite/
+https://leetcode.com/problems/possible-bipartition/
+https://leetcode.com/problems/is-graph-bipartite/
 
 Topological Sort:
 
-    https://leetcode.com/problems/course-schedule-ii/
+https://leetcode.com/problems/course-schedule-ii/
 
 Shortest Path:
 
-    https://leetcode.com/problems/network-delay-time/
-    https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
-    https://leetcode.com/problems/cheapest-flights-within-k-stops/
+https://leetcode.com/problems/network-delay-time/
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+https://leetcode.com/problems/cheapest-flights-within-k-stops/
 
 
 
@@ -288,209 +262,124 @@ https://leetcode.com/problems/longest-turbulent-subarray/
 https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 
 
-
-Two Pointers
-
-    #75 Sort Colors
-    #80 Remove Duplicates from Sorted Array II
-    #88 Merge Sorted Array
-    #457 Circular Array Loop
-    #713 Subarray Product Less Than K
-    #845 Longest Mountain in Array
-    #904 Fruit into baskets
-    #925 Long Pressed name
-    #986 Interval list intersections
-
-Binary Search
-
-    #33 Search in rotated sorted array
-    #69 Sqrt(x)
-    #153 Find min in rotated sorted array
-    #349 Intersection of two arrays
-    #441 Arranging coins
-    #475 Heaters
-    #658 Find K closest elements
-    #911 Online Election
-
-Hashmap
-
-    #463 Island Perimeter
-    #535 Encode and decode TinyURL
-    #575 Distribute Candies
-    #739 Daily Temperatures
-    #748 Shortest Completing Word
-    #811 Subdomain visit count
-    #884 Uncommon words from Twos sentences
-    #953 Verifying an Alien Dictionary
-    #961 N-Repeated Element in Size 2N Array
-    #1160 Find words that can be formed by characters
-    #1078 Occurences after bigram
-
-Stack
-
-    #496 Next Greater Element I
-    #682 Baseball Game
-    #856 Score of Parentheses
-    #946 Validate Stack Sequences
-    #1190 Reverse Substrings Between Each Pair of Parentheses
-    #1209 Remove All Adjacent Duplicates in String II
-
-String
-
-    #468 Validate IP Address
-    #522 Longest Uncommon Subsequence II
-    #539 Minimum Time Difference
-    #553 Optimal Division
-    #791 Custom Sort String
-    #833 Find and replace in String
-    #835 Image Overlap
-    #893 Groups of Special-Equivalent Strings
-    #1156 Swap For Longest Repeated Character Substring
-
-Sliding Window
-
-    #424 Longest Repeating Character Replacement
-    #1040 Moving Stones Until Consecutive II
-
-Tree
-
-    #101 Symmetric Tree
-    #108 Convert Sorted Array to Binary Search Tree
-    #226 Invert Binary Tree
-    #538 Convert BST to Greater Tree
-    #543 Diameter of a Binary Tree
-    #637 Average of Levels in Binary Tree
-    #654 Maximum Binary Tree
-    #669 Trim a Binary Search Tree
-    #589 N-ary Tree Preorder Traversal
-    #894 All Possible Full Binary Trees
-    #979 Distribute Coins in Binary Tree
-    #993 Cousins in a Binary Tree
-    #1022 Sum of Root To Leaf Binary Numbers
-    #1104 Path In Zigzag Labelled Binary Tree
-    #1110 Delete Nodes And Return Forest
-
-
-
-
-    DP for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions || [LIST - https://leetcode.com/list/x1k8lxi5]
-    Graph for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/655708/graph-for-beginners-problems-pattern-sample-solutions/562734 || [LIST - https://leetcode.com/list/x1wy4de7]
-    Sliding window for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions/562721 || [LIST - https://leetcode.com/list/x1lbzfk3]
-    DP Patterns by @aatalyk - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns Leetcode patterns from edu_cative_dot_io by @late_riser - https://leetcode.com/discuss/general-discussion/457546/LeetCode-Problem-Patterns-from-***
-    List of questions sorted by common patterns by @Maverick2594 - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
-    How to solve DP - String? Template and 4 Steps to be followed by @igooglethings - https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed
-    Using bit manipulation to solve problems easily and efficiently by @LHearen - https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
-    Recursive approach to segment trees and range sum queries and lazy propagation - https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
-    How to use Leetcode efficiently and effectively by beginners by @megaspazz - https://leetcode.com/discuss/career/450215/How-to-use-LeetCode-to-help-yourself-efficiently-and-effectively-(for-beginners)
-    Dynamic Programming Questions thread by @karansingh1559 - https://leetcode.com/discuss/general-discussion/491522/dynamic-programming-questions-thread
-    Comprehensive Data Structure and Algorithm Study Guide by @xrssa - https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
-    Backtracking Summary and general template to solve many problems by @dichen001 - https://leetcode.com/problems/permutations/discuss/18284/Backtrack-Summary:-General-Solution-for-10-Questions
-    How to approach DP problems by @heroes3001 - https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems
-    A general approach to backtracking questions by @issac3 - https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
-    Top 75 Leetcode questions for interview preparation curated by Blind - https://leetcode.com/list/xi4ci4ig/
-    Topic wise problems for beginners by @yashrsharma44 - https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
-    Sliding Window algorithm template to solve all the Leetcode substring search problem by @chaoyanghe - https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem
-    Greedy for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions || [LIST - https://leetcode.com/list/xyehq5j6]
-    System Design template by @topcat - https://leetcode.com/discuss/career/229177/my-system-design-template
-    Interview prep tips by @topcat - https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle
-    Facebook interview question list by @suresh_reddy - https://leetcode.com/discuss/interview-question/675445/facebook-interview-experiences-all-combined-from-lc-till-date-07-jun-2020
-    Most consistent ways of dealing with the series of stock problems by @fun4LeetCode - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
-    DFS for beginners by @StefanPochmann - https://leetcode.com/problems/reconstruct-itinerary/discuss/78768/Short-Ruby-Python-Java-C%2B%2B
-    Article on Trie. General Template and List of problems by @igooglethings - https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems
-    Binary Search for Beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions || [LIST - https://leetcode.com/list/xcrx4mxm]
-    Template for all combination problem set by @fight.for.dream - https://leetcode.com/problems/combination-sum-iv/discuss/85120/C%2B%2B-template-for-ALL-Combination-Problem-Set
-    Monotonic Queue Summary by @luxy622 - https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/discuss/204290/Monotonic-Queue-Summary
-    System Design - Design distributed job scheduler by @sjkm - https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
-    Design highly available system - https://leetcode.com/discuss/general-discussion/1105898/system-design-introduction-to-distributed-systems-designing-a-highly-available-system
-    Bit Hacks - https://leetcode.com/discuss/study-guide/1151183/bits-can-hack-the-world-beginners-guide-bit-hacks-with-proper-approach
-    Microsoft SDE Code Questions - https://leetcode.com/discuss/interview-question/1726122/compilation-microsoft-interview-experience-question-sde-isde-ii
-    Microsoft SDE Design Questions - https://leetcode.com/discuss/interview-question/system-design/1729681/compilation-microsoft-design-questions-sde-isde-ii
+DP for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions || [LIST - https://leetcode.com/list/x1k8lxi5]
+Graph for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/655708/graph-for-beginners-problems-pattern-sample-solutions/562734 || [LIST - https://leetcode.com/list/x1wy4de7]
+Sliding window for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions/562721 || [LIST - https://leetcode.com/list/x1lbzfk3]
+DP Patterns by @aatalyk - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns Leetcode patterns from edu_cative_dot_io by @late_riser - https://leetcode.com/discuss/general-discussion/457546/LeetCode-Problem-Patterns-from-***
+List of questions sorted by common patterns by @Maverick2594 - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
+How to solve DP - String? Template and 4 Steps to be followed by @igooglethings - https://leetcode.com/discuss/general-discussion/651719/how-to-solve-dp-string-template-and-4-steps-to-be-followed
+Using bit manipulation to solve problems easily and efficiently by @LHearen - https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
+Recursive approach to segment trees and range sum queries and lazy propagation - https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/
+How to use Leetcode efficiently and effectively by beginners by @megaspazz - https://leetcode.com/discuss/career/450215/How-to-use-LeetCode-to-help-yourself-efficiently-and-effectively-(for-beginners)
+Dynamic Programming Questions thread by @karansingh1559 - https://leetcode.com/discuss/general-discussion/491522/dynamic-programming-questions-thread
+Comprehensive Data Structure and Algorithm Study Guide by @xrssa - https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
+Backtracking Summary and general template to solve many problems by @dichen001 - https://leetcode.com/problems/permutations/discuss/18284/Backtrack-Summary:-General-Solution-for-10-Questions
+How to approach DP problems by @heroes3001 - https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems
+A general approach to backtracking questions by @issac3 - https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
+Top 75 Leetcode questions for interview preparation curated by Blind - https://leetcode.com/list/xi4ci4ig/
+Topic wise problems for beginners by @yashrsharma44 - https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
+Sliding Window algorithm template to solve all the Leetcode substring search problem by @chaoyanghe - https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem
+Greedy for beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions || [LIST - https://leetcode.com/list/xyehq5j6]
+System Design template by @topcat - https://leetcode.com/discuss/career/229177/my-system-design-template
+Interview prep tips by @topcat - https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle
+Facebook interview question list by @suresh_reddy - https://leetcode.com/discuss/interview-question/675445/facebook-interview-experiences-all-combined-from-lc-till-date-07-jun-2020
+Most consistent ways of dealing with the series of stock problems by @fun4LeetCode - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
+DFS for beginners by @StefanPochmann - https://leetcode.com/problems/reconstruct-itinerary/discuss/78768/Short-Ruby-Python-Java-C%2B%2B
+Article on Trie. General Template and List of problems by @igooglethings - https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems
+Binary Search for Beginners by @wh0ami - https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions || [LIST - https://leetcode.com/list/xcrx4mxm]
+Template for all combination problem set by @fight.for.dream - https://leetcode.com/problems/combination-sum-iv/discuss/85120/C%2B%2B-template-for-ALL-Combination-Problem-Set
+Monotonic Queue Summary by @luxy622 - https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/discuss/204290/Monotonic-Queue-Summary
+System Design - Design distributed job scheduler by @sjkm - https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
+Design highly available system - https://leetcode.com/discuss/general-discussion/1105898/system-design-introduction-to-distributed-systems-designing-a-highly-available-system
+Bit Hacks - https://leetcode.com/discuss/study-guide/1151183/bits-can-hack-the-world-beginners-guide-bit-hacks-with-proper-approach
+Microsoft SDE Code Questions - https://leetcode.com/discuss/interview-question/1726122/compilation-microsoft-interview-experience-question-sde-isde-ii
+Microsoft SDE Design Questions - https://leetcode.com/discuss/interview-question/system-design/1729681/compilation-microsoft-design-questions-sde-isde-ii
 
 Infamous interview experiences + coding prep guide
 
-    Amazon lessons learned - https://leetcode.com/discuss/interview-experience/599592/amazon-sde1-offer-experience-lessons-learned
-    From 0 to clearing interviews at FAANG's - https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle
-    Most consistent ways of dealing with stock problems - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
-    Trie sample problems and template - https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems
-    Experiences and notes on learning DP - https://leetcode.com/discuss/general-discussion/475924/my-experience-and-notes-for-learning-dp
-    Google Interview Questions list till July - https://leetcode.com/discuss/general-discussion/726900/Google-Interview-questions-list-or-Jan-2020-Jun-2020
-    How I got my first interview job - https://leetcode.com/discuss/interview-experience/599592/amazon-sde1-offer-experience-lessons-learned
-    FB interview experiences till July - https://leetcode.com/discuss/general-discussion/675445/Facebook-interview-experiences-All-Combined-from-LC-Till-Date-07-Jun-2020
-    Dummies guide for DSA - https://leetcode.com/discuss/general-discussion/623011/A-guide-for-dummies-(like-me)
-    12 week interview prep for begineers - https://leetcode.com/discuss/general-discussion/698684/Interview-Preparation-for-Beginners-DS-or-Algorithms-or-OS-or-System-Design
-    DP string templates - https://leetcode.com/discuss/general-discussion/651719/How-to-solve-DP-String-Template-and-4-Steps-to-be-followed.
-    Leetcode patterns from educative.io - https://leetcode.com/discuss/general-discussion/457546/LeetCode-Problem-Patterns-from-educative.io
-    I leetcoded and so can you - https://leetcode.com/discuss/general-discussion/390646/I-Leetcoded-(And-So-Can-You!)
-    DP Questions thread - https://leetcode.com/discuss/general-discussion/491522/Dynamic-Programming-Questions-Thread
-    Amazon New SDE grad timeline - https://leetcode.com/discuss/general-discussion/435775/Amazon-SDE-New-grad-Timeline
-    How to grind LeetCode - https://leetcode.com/discuss/general-discussion/355251/A-few-helpful-links-to-posts-which-tell-you-HOW-to-grind-leetcode
-    Effectively use LeetCode for interview prep - https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews
-    FTE - time management - https://leetcode.com/discuss/general-discussion/362436/Full-Time-Employees-Time-Management
-    Google MTV L5 offer - https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
-    11 companies, 55 interviews - https://leetcode.com/discuss/career/394056/11-companies-55-Interviews-9-offers-including-Google-Amazon-(and-Square)
-    Notes for night before interview - https://leetcode.com/discuss/career/217868/My-notes-for-the-night-before-interview
-    Google L3 offer - https://leetcode.com/discuss/interview-experience/456432/NDA-Google-or-L3-or-Bangalore-or-Dec-2019-Offer
-    List of questions categorised by their patterns - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
-    Google Interview tips + resources - https://leetcode.com/discuss/career/449744/Google-Interview-Tips-%2B-FAQs-Answered-%2B-Resources
-    Amazon LP resource - https://leetcode.com/discuss/interview-question/437082/Amazon-Behavioral-questions-or-Leadership-Principles-or-LP
-    Binary Search Template - https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems
-    10 companies, 15 offers - https://leetcode.com/discuss/interview-experience/842389/10-companies-15-interviews-and-4-offers-my-story
-    Sorting algorithms in short - https://leetcode.com/discuss/general-discussion/754949/sorting-algorithms-in-short
-    Some of the above posts can be found here as well -https://leetcode.com/discuss/general-discussion/459286/Best-Posts-of-2019
-    Binary search 101 handbook - https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook
-    System Design interesting reads - https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit
-    System Design popular posts on LC - https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft
-    https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm
-    https://leetcode.com/discuss/interview-question/1237448/concept-based-crash-course-on-patternstechniques-list-of-problems-from-blind
-    https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem
-    https://leetcode.com/discuss/interview-question/1333049/collections-of-string-questions-pattern-for-upcoming-placement-2021
-    https://leetcode.com/discuss/study-guide/1437879/dynamic-programming-patterns
-    https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode-Posts-on-System-Design-at-Facebook-Google-Amazon-Uber-Microsoft
-    https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view
-    https://leetcode.com/discuss/study-guide/1921342/all-leetcode-dp-questions-sorted-based-on-topic
-    https://leetcode.com/discuss/interview-question/2805706/important-faang-solved-complete-system-design-case-studies
+Amazon lessons learned - https://leetcode.com/discuss/interview-experience/599592/amazon-sde1-offer-experience-lessons-learned
+From 0 to clearing interviews at FAANG's - https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle
+Most consistent ways of dealing with stock problems - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems
+Trie sample problems and template - https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems
+Experiences and notes on learning DP - https://leetcode.com/discuss/general-discussion/475924/my-experience-and-notes-for-learning-dp
+Google Interview Questions list till July - https://leetcode.com/discuss/general-discussion/726900/Google-Interview-questions-list-or-Jan-2020-Jun-2020
+How I got my first interview job - https://leetcode.com/discuss/interview-experience/599592/amazon-sde1-offer-experience-lessons-learned
+FB interview experiences till July - https://leetcode.com/discuss/general-discussion/675445/Facebook-interview-experiences-All-Combined-from-LC-Till-Date-07-Jun-2020
+Dummies guide for DSA - https://leetcode.com/discuss/general-discussion/623011/A-guide-for-dummies-(like-me)
+12 week interview prep for begineers - https://leetcode.com/discuss/general-discussion/698684/Interview-Preparation-for-Beginners-DS-or-Algorithms-or-OS-or-System-Design
+DP string templates - https://leetcode.com/discuss/general-discussion/651719/How-to-solve-DP-String-Template-and-4-Steps-to-be-followed.
+Leetcode patterns from educative.io - https://leetcode.com/discuss/general-discussion/457546/LeetCode-Problem-Patterns-from-educative.io
+I leetcoded and so can you - https://leetcode.com/discuss/general-discussion/390646/I-Leetcoded-(And-So-Can-You!)
+DP Questions thread - https://leetcode.com/discuss/general-discussion/491522/Dynamic-Programming-Questions-Thread
+Amazon New SDE grad timeline - https://leetcode.com/discuss/general-discussion/435775/Amazon-SDE-New-grad-Timeline
+How to grind LeetCode - https://leetcode.com/discuss/general-discussion/355251/A-few-helpful-links-to-posts-which-tell-you-HOW-to-grind-leetcode
+Effectively use LeetCode for interview prep - https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews
+FTE - time management - https://leetcode.com/discuss/general-discussion/362436/Full-Time-Employees-Time-Management
+Google MTV L5 offer - https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
+11 companies, 55 interviews - https://leetcode.com/discuss/career/394056/11-companies-55-Interviews-9-offers-including-Google-Amazon-(and-Square)
+Notes for night before interview - https://leetcode.com/discuss/career/217868/My-notes-for-the-night-before-interview
+Google L3 offer - https://leetcode.com/discuss/interview-experience/456432/NDA-Google-or-L3-or-Bangalore-or-Dec-2019-Offer
+List of questions categorised by their patterns - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
+Google Interview tips + resources - https://leetcode.com/discuss/career/449744/Google-Interview-Tips-%2B-FAQs-Answered-%2B-Resources
+Amazon LP resource - https://leetcode.com/discuss/interview-question/437082/Amazon-Behavioral-questions-or-Leadership-Principles-or-LP
+Binary Search Template - https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems
+10 companies, 15 offers - https://leetcode.com/discuss/interview-experience/842389/10-companies-15-interviews-and-4-offers-my-story
+Sorting algorithms in short - https://leetcode.com/discuss/general-discussion/754949/sorting-algorithms-in-short
+Some of the above posts can be found here as well -https://leetcode.com/discuss/general-discussion/459286/Best-Posts-of-2019
+Binary search 101 handbook - https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook
+System Design interesting reads - https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit
+System Design popular posts on LC - https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft
+https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm
+https://leetcode.com/discuss/interview-question/1237448/concept-based-crash-course-on-patternstechniques-list-of-problems-from-blind
+https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem
+https://leetcode.com/discuss/interview-question/1333049/collections-of-string-questions-pattern-for-upcoming-placement-2021
+https://leetcode.com/discuss/study-guide/1437879/dynamic-programming-patterns
+https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode-Posts-on-System-Design-at-Facebook-Google-Amazon-Uber-Microsoft
+https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view
+https://leetcode.com/discuss/study-guide/1921342/all-leetcode-dp-questions-sorted-based-on-topic
+https://leetcode.com/discuss/interview-question/2805706/important-faang-solved-complete-system-design-case-studies
 
 Links
 
-    https://teachyourselfcs.com/
-    https://bottomupcs.com/
-    https://microservices.io/
-    https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d
-    https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
-    https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
-    https://coderscat.com/to-be-a-programmer
-    https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-    https://medium.com/hackernoon/top-100-data-structure-and-algorithms-interview-questions-for-practice-d5071e92321e
-    https://www.linkedin.com/pulse/google-interview-experience-software-engineer-1-hemant-bansal/
-    https://www.freecodecamp.org/news/the-docker-handbook/
-    https://tianpan.co/notes/
-    https://www.freecodecamp.org/news/systems-design-for-interviews/
-    https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
-    https://medium.com/@yashbudukh/building-a-remote-code-execution-system-9e55c5b248d6
-    https://medium.com/@saisandeepmopuri/system-design-online-judge-with-data-modelling-40cb2b53bfeb
-    https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
-    https://www.youtube.com/user/GISIGeometry
-    https://codeforces.com/blog/entry/57282
-    https://backendology.com/
-    https://projectlearn.io/
-    https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
-    https://github.com/vasanthk/how-web-works
-    https://medium.com%2F@medium.com/@varungarg6781/preparation-for-lateral-hiring-1d19aac437ef
-    https://systemdesigntutorial.com/
-    https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054
-    https://youtube.com/channel/UCVa66dAkbs60_A0P52Yjj7Q
-    https://www.youtube.com/c/UditAgarwal21
-    MIT 6.824 - Distributed Systems - https://pdos.csail.mit.edu/6.824/index.html
-    https://www.youtube.com/channel/UCVa66dAkbs60_A0P52Yjj7Q
-    https://systemsthatscale.org/
-    https://systemdesignprimer.netlify.app/
-    https://github.com/prasadgujar/low-level-design-primer
-    https://systemdesignprep.com/
-    https://www.youtube.com/channel/UCPumyEKs86w-GtWDd2XQYtg
-    https://www.acupofcode.me/2021/01/designing-distributed-file-storage.html
-    https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/#further-systems-design-resources
-    http://patrickhalina.com/posts/systems-design-interview-guide/#background-theory
-    https://dancres.github.io/Pages/
+https://teachyourselfcs.com/
+https://bottomupcs.com/
+https://microservices.io/
+https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d
+https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+https://coderscat.com/to-be-a-programmer
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://medium.com/hackernoon/top-100-data-structure-and-algorithms-interview-questions-for-practice-d5071e92321e
+https://www.linkedin.com/pulse/google-interview-experience-software-engineer-1-hemant-bansal/
+https://www.freecodecamp.org/news/the-docker-handbook/
+https://tianpan.co/notes/
+https://www.freecodecamp.org/news/systems-design-for-interviews/
+https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
+https://medium.com/@yashbudukh/building-a-remote-code-execution-system-9e55c5b248d6
+https://medium.com/@saisandeepmopuri/system-design-online-judge-with-data-modelling-40cb2b53bfeb
+https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+https://www.youtube.com/user/GISIGeometry
+https://codeforces.com/blog/entry/57282
+https://backendology.com/
+https://projectlearn.io/
+https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
+https://github.com/vasanthk/how-web-works
+https://medium.com%2F@medium.com/@varungarg6781/preparation-for-lateral-hiring-1d19aac437ef
+https://systemdesigntutorial.com/
+https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054
+https://youtube.com/channel/UCVa66dAkbs60_A0P52Yjj7Q
+https://www.youtube.com/c/UditAgarwal21
+MIT 6.824 - Distributed Systems - https://pdos.csail.mit.edu/6.824/index.html
+https://www.youtube.com/channel/UCVa66dAkbs60_A0P52Yjj7Q
+https://systemsthatscale.org/
+https://systemdesignprimer.netlify.app/
+https://github.com/prasadgujar/low-level-design-primer
+https://systemdesignprep.com/
+https://www.youtube.com/channel/UCPumyEKs86w-GtWDd2XQYtg
+https://www.acupofcode.me/2021/01/designing-distributed-file-storage.html
+https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/#further-systems-design-resources
+http://patrickhalina.com/posts/systems-design-interview-guide/#background-theory
+https://dancres.github.io/Pages/
 
 
 by  @avidLearnerInProgress
@@ -499,24 +388,23 @@ avidLearnerInProgress/yetAnotherBookmarkList.md
 
 10 Leetcode Articles to crack any Coding Interview:
 
-    Sliding Window Patterns: https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
+Sliding Window Patterns: https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
 
-    Two Pointers Patterns: https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
+Two Pointers Patterns: https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
 
-    Substring Problems Patterns: https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/
+Substring Problems Patterns: https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/
 
-    Dynamic Programming-1 Patterns: https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
+Dynamic Programming-1 Patterns: https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
 
-    Dynamic Programming-2 Patterns: https://leetcode.com/discuss/study-guide/1437879/Dynamic-Programming-Patterns
+Dynamic Programming-2 Patterns: https://leetcode.com/discuss/study-guide/1437879/Dynamic-Programming-Patterns
 
-    Binary Search Patterns: https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
+Binary Search Patterns: https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
 
-    Backtracking Patterns: https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/
+Backtracking Patterns: https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/
 
-    Tree Patterns: https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views
+Tree Patterns: https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views
 
-    Graph Patterns: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
-
+Graph Patterns: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
 
 posts on tries
 https://leetcode.com/discuss/interview-question/4161389/All-you-need-to-know-about-trie
