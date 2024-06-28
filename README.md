@@ -61,6 +61,10 @@ Link : https://leetcode.com/problem-list/57ksrrzj/
 
 Link : https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
 
+I am done will understanding basics of coding types
+I will start solving neetcode.io    
+There are 580 question as of now and will continue solving them 5 each type till December after which i will start solving only daily streak questions and participating in contests
+
 Other materials
 
 https://github.com/twowaits/SDE-Interview-Questions/tree/master
